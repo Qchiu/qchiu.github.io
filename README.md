@@ -1,4 +1,3 @@
-qchiu.github.io
+Qchiu
 ===============
-
-Qchiu.Github.io
+This is my blog
