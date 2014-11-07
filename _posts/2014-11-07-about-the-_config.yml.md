@@ -1,7 +1,8 @@
 ---
 layout: default
-title: _config.yml 问题
+title: _config.yml 闂
 ---
-##{{ page.title }}
-在按照原来提交之后，发现不可生成页面，需要加配置UTF-8，然后就跪了
+
+##  _config.yml 闂
+鍦ㄦ寜鐓у師鏉ユ彁浜や箣鍚庯紝鍙戠幇涓嶅彲鐢熸垚椤甸潰锛岄渶瑕佸姞閰嶇疆UTF-8锛岀劧鍚庡氨璺簡
 {{ page.date | date_to_string }}
